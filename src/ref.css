@@ -1,0 +1,47 @@
+.customer-references {
+  margin: 2vw auto; /* Sayfayı yatay olarak ortala */
+  width: 100%; /* İçeriğin genişliğini ayarla */
+  text-align: center; /* Başlığı ortala */
+  font-size: 2vw;
+  color: rgb(255, 255, 255);
+  padding-bottom: 3vw;
+}
+
+.reference-list {
+
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Kartların ortalanması */
+}
+
+.reference {
+  width: 20vw;
+  border: 2px solid rgb(255, 234, 115);
+  background-color: rgb(203, 132, 0);
+  border-radius: 1vw;
+  padding: 1vw;
+  margin: 1vw;
+  text-align: center;
+  margin: 1vw auto; /* Blokları yatay olarak ortala */
+}
+
+.reference h3 {
+  margin-top: 0;
+  margin-bottom: 0,5vw;
+}
+
+.reference p {
+  margin-top: 0,5vw; /* Üst boşluğu azalt */
+  margin-bottom: 0; /* Alt boşluğu sıfırla */
+}
+.comment-container {
+  color: rgb(45, 45, 45);
+  background-color: rgb(188, 188, 188); /* Arka plan rengini değiştirin */
+  border-radius: 0,5vw;
+}
+
+@media (max-width: 768px) {
+  .reference-list {
+    display: block;
+  }
+}

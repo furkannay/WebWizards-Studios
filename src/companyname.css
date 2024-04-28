@@ -1,0 +1,45 @@
+/* src/components/CompanyName.css */
+
+
+.header-container {
+    display: flex;
+    justify-content: center; /* Sayfayı yatayda ortalama */
+    align-items: center; /* Sayfayı dikeyde ortalama */
+
+  }
+  .Header-Logo {
+    width: 15vw; /* Logo genişliği %80 olarak ayarlanıyor */
+    max-width: 300px; /* Logo maksimum genişlik 300px olacak, eğer bu değeri değiştirmek isterseniz uygun bir değer girin */
+  }
+
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('./PressStart2P-Regular.ttf') format('truetype'); /* Font dosya yolunu doğru şekilde belirtin */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+  
+ 
+  .welcome-text h1 {
+    margin: 0; /* Yazıların üst ve alt boşluğunu sıfırla */
+  }
+  
+  .welcome-text h1:first-child {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px; /* İlk h1 için alt boşluk */
+    font-size: 2vw;
+  }
+  .welcome-text h1:last-child {
+    color: aqua;
+    font-family: "Press Start 2P",cursive;
+    font-size: 4vw; /* Font boyutu - isteğe göre ayarlayabilirsiniz */
+    font-weight: bold; /* Kalın font */
+    text-align: center; /* Metni ortala */
+    margin-bottom: 10px; /* İlk h1 için alt boşluk */
+  }
