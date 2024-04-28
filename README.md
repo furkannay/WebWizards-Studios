@@ -1,72 +1,40 @@
-# Getting Started with Create React App
+# WebWizards Studios Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed using React.js to create a responsive and SEO-friendly website showcasing the services, portfolio,customer references and contact information of WebWizards Studio, a digital agency.
 
-## Available Scripts
+You can see the site [here](https://web-wizards-studios-seven.vercel.app)
 
-In the project directory, you can run:
+## Page Content
 
-### `npm start`
+- **Home**: Introduction and general information about WebWizards Studio.
+  
+- **About Us**: Descriptions and details of the agency's offered services.
+  
+- **Services**: Visuals and descriptions of projects completed by the agency.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Customer References**: Feedbacks and comments of custmers.
+  
+- **Contact**: Phone, email, and address information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **React.js**: Front-end development library used for the website.
+  
+- **CSS**: Styling and design of the pages.
+  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React Icons**: Integration for using icons on the pages.
+  
+- **Google Maps Embed**: Used to display Google Maps on the website.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/furkannay/WebWizards-Studios/assets/74255322/c0da1490-6b83-4282-8d46-4b1e9ac39d71
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Açıklama](https://github.com/furkannay/WebWizards-Studios/assets/74255322/90c72410-477b-4e62-af52-80b452eb3a9b)
 
-### `npm run eject`
+![Açıklama](https://github.com/furkannay/WebWizards-Studios/assets/74255322/838c5a62-41d6-484b-a79e-27a65bd25b71)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This README file provides a brief overview of the WebWizards Studio website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# WebWizards-Studios
-# WebWizards-Studios
